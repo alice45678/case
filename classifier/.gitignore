@@ -1,1 +1,6 @@
-data/NewsAggregatorDataset../.idea/
+.gitignore
+data/NewsAggregatorDataset/2pageSessions.csv
+data/NewsAggregatorDataset/newsCorpora.csv
+data/NewsAggregatorDataset/readme.txt
+../.idea/
+data/NewsAggregatorDataset/
