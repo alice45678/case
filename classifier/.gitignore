@@ -3,4 +3,7 @@ data/NewsAggregatorDataset/2pageSessions.csv
 data/NewsAggregatorDataset/newsCorpora.csv
 data/NewsAggregatorDataset/readme.txt
 ../.idea/
-data/NewsAggregatorDataset/
+data/NewsAggregatorDataset/data/NewsAggregatorDataset/2pageSessions.csv
+data/NewsAggregatorDataset/newsCorpora.csv
+data/NewsAggregatorDataset/readme.txt
+../.idea/
